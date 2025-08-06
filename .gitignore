@@ -1,2 +1,7 @@
 dist
+<<<<<<< HEAD
 node_modules
+=======
+node_modules
+.parcel-cache
+>>>>>>> ad6cf13 (completed)
